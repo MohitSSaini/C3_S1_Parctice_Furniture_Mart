@@ -8,4 +8,8 @@ public class FurnitureItem {
     String FurnitureUsage;
     double FurniturePrice;
     
+    double calculateDiscount ( double priceOfFurniture ) {
+        return priceOfFurniture + ( priceOfFurniture * 0.05 );
+    }
+    
 }
