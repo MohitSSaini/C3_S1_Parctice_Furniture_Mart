@@ -1,0 +1,10 @@
+// attributes
+
+String = color ==> red , blue , or green;
+char = grades ==> a , b , c;
+String = furniture manufactured ==> Table , Chair , CupBoard , Stools;
+Double = Price;
+String = User ==> Indoor,OutDoor;
+
+//Behavior
+discount ==> 5%
